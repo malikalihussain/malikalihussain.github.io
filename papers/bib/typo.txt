@@ -1,0 +1,9 @@
+@inproceedings{tahir2018s,
+  title={It's all in the name: Why some urls are more vulnerable to typosquatting},
+  author={Tahir, Rashid and Raza, Ali and Ahmad, Faizan and Kazi, Jehangir and Zaffar, Fareed and Kanich, Chris and Caesar, Matthew},
+  booktitle={IEEE INFOCOM 2018-IEEE Conference on Computer Communications},
+  pages={2618--2626},
+  year={2018},
+  organization={IEEE}
+}
+

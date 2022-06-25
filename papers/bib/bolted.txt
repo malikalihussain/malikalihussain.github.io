@@ -1,0 +1,7 @@
+@inproceedings{mosayyebzadeh2018secure,
+  title={A secure cloud with minimal provider trust},
+  author={Mosayyebzadeh, Amin and Ravago, Gerardo and Mohan, Apoorve and Raza, Ali and Tikale, Sahil and Schear, Nabil and Hudson, Trammell and Hennessey, Jason and Ansari, Naved and Hogan, Kyle and others},
+  booktitle={10th $\{$USENIX$\}$ Workshop on Hot Topics in Cloud Computing (HotCloud 18)},
+  year={2018}
+}
+

@@ -1,0 +1,9 @@
+@inproceedings{tahir2017anomaly,
+  title={An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities},
+  author={Tahir, Rashid and Caesar, Matthew and Raza, Ali and Naqvi, Mazhar and Zaffar, Fareed},
+  booktitle={Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing},
+  pages={431--441},
+  year={2017},
+  organization={IEEE Press}
+}
+

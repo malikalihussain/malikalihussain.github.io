@@ -1,0 +1,8 @@
+@inproceedings{tahir2018using,
+  title={Using SGX-Based Virtual Clones for IoT Security},
+  author={Tahir, Rashid and Raza, Ali and Zaffar, Fareed and Ghani, Faizan Ul and Zulfiqar, Mubeen},
+  booktitle={2018 IEEE 17th International Symposium on Network Computing and Applications (NCA)},
+  pages={1--4},
+  year={2018},
+  organization={IEEE}
+}
