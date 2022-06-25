@@ -25,11 +25,11 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Biography
-    url: /cv/
-  - title: Publications
-    url: /publications/
+# links:
+#   - title: Biography
+#     url: /cv/
+#   - title: Publications
+#     url: /publications/
 #  - title: Research
 #    url: /research/
 
