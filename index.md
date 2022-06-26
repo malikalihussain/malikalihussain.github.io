@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu). I joined CS@BU in Fall’17. 
+I am currently pursuing a Master of Science in the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu). I will be graduating in Decemeber 2022. 
 <br />
 <br />
 
@@ -20,10 +20,8 @@ I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/c
 
 ### Education
 
-- **PhD Candidate**, Computer Science, 2017 - present \\
-Boston University, Boston, USA
-	- Advisor: [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)
-	- Research Area: Operating Systems, Unikernels
+- **Carnegie Mellon University – Information Networking Institute**, Pittsburgh, PA\\
+    Master of Science in Information Technology - Information Security - **CGPA: 3.90/4.00**, Aug 2021 - Dec 2022 \\
 
 - **Master of Science**, Computer Science, 2014-2016 \\
  Lahore University of Management Sciences ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  \\
