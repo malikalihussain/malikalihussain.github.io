@@ -10,13 +10,13 @@ disqus_shortname: Malik Ali Hussain
 owner:
   name:           Malik Ali Hussain
   avatar:         aliraza.jpg
-  bio:            Can be found talking about the kernel, politics, soccer, food and everything in between.
-  email:          aliraza@bu.edu
+  bio:            Can be found talking about the Systems, Cybersecurity, Formula 1, Food and everything in between.
+  email:          malikalh@andrew.cmu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: alirazaih
-  linkedin: razaaliraza
-  google_scholar: ZgFILF0AAAAJ
-  github: razaaliraza
+#   twitter: alirazaih
+  linkedin: malik-ali291
+#   google_scholar: ZgFILF0AAAAJ
+  github: malikalihussain
 # Analytics and webmaster tools stuff goes here
 #google_analytics: UA-52736040-1
 #google_verify:
