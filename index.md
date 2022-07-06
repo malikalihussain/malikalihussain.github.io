@@ -29,22 +29,32 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 - **[Lahore University of Management Sciences](https://lums.edu.pk/)**\\
     Bachelor of Science in Computer Science with Mathematics minor\\
     September 2017 - June 2021\\
-    Lahore, Pakistan
+    Lahore, Pakistan\\
     **CGPA: 3.70/4.00**
     
 - **[Beaconhouse College Programme](https://bcp.net.pk/multan/)**\\
     GCE A Levels\\
     September 2015 - June 2017\\
-    Multan, Pakistan
+    Multan, Pakistan\\
     **Grades: 2A* & 2A's**
 
 ---
 ## Work Experience
 
-- **Research Intern: Red Hat**     – Summer 2018 to present 
-	- Project: Unikernel Linux 
-	- Description: Turning Linux into a unikernel, capable of running unmodified Linux applications, and deployable on bare metal or virtualized hardware.
-	- Boston, MA, USA 
+- **Google**
+    Software Engineering Intern at Google Cloud Infrastructure
+    May 2022 - August 2022 
+    	- Built an API for Memory Management & Unsolicited Message Delivery from Pony Express to Host Application
+	- Designed, Implemented & Tested a Reliable Datagram(RD) operation using Transport-Integrated Microservices(TRIM)
+	- Currently benchmarking & developing a Multicast version of RD op aimed at reducing tail latency of 12x–100x fanout messages
+
+	
+- **iTitans Ltd.**
+    Software Engineering Intern
+    June 2020 - August 2020 
+    	- Used Jira for project management, Adobe XD for design & prototyping of the UI/UX of user-friendly web solutions
+	- Implemented web-solutions, in HTML, CSS, & integrated them with back-end capable of catering 6M+ annual traffic
+
 
 ---
 
