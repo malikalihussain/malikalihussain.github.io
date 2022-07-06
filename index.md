@@ -45,8 +45,8 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
     Software Engineering Intern at Google Cloud Infrastructure\\
     May 2022 - August 2022   
     - Built an API for Memory Management & Unsolicited Message Delivery from Pony Express to Host Application
-    - Designed, Implemented & Tested a Reliable Datagram(RD) operation using Transport-Integrated Microservices(TRIM)
-    - Currently benchmarking & developing a Multicast version of RD op aimed at reducing tail latency of 12x–100x fanout messages
+    - Designed, Implemented & Tested a Reliable Datagram(RD) operation using for Pony Express
+    - Currently benchmarking & developing a Multicast version of RD aimed at reducing tail latency of large fanout messages
 
 - **iTitans Ltd.**\\
     Software Engineering Intern\\
