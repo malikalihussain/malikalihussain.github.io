@@ -44,15 +44,15 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 - **Google**\\
     Software Engineering Intern at Google Cloud Infrastructure\\
     May 2022 - August 2022   
-     - Built an API for Memory Management & Unsolicited Message Delivery from Pony Express to Host Application
-     - Designed, Implemented & Tested a Reliable Datagram(RD) operation using Transport-Integrated Microservices(TRIM)
-     - Currently benchmarking & developing a Multicast version of RD op aimed at reducing tail latency of 12x–100x fanout messages
-\\	
+      - Built an API for Memory Management & Unsolicited Message Delivery from Pony Express to Host Application
+      - Designed, Implemented & Tested a Reliable Datagram(RD) operation using Transport-Integrated Microservices(TRIM)
+      - Currently benchmarking & developing a Multicast version of RD op aimed at reducing tail latency of 12x–100x fanout messages
+
 - **iTitans Ltd.**\\
     Software Engineering Intern\\
     June 2020 - August 2020 
-     - Used Jira for project management, Adobe XD for design & prototyping of the UI/UX of user-friendly web solutions
-     - Implemented web-solutions, in HTML, CSS, & integrated them with back-end capable of catering 6M+ annual traffic
+      - Used Jira for project management, Adobe XD for design & prototyping of the UI/UX of user-friendly web solutions
+      - Implemented web-solutions, in HTML, CSS, & integrated them with back-end capable of catering 6M+ annual traffic
 
 ---
 
@@ -61,36 +61,36 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 - **Distributed Systems** - CMU\\
     January 2022 - April 2022\\
     Languages/Platforms & Skills: Java,Socket & Concurrent Programming  
-     - Implemented a Distributed Database Platform supporting database partitioning & replication with eventual consistency
-     - Developed a Distributed File System capable of interacting using RESTful APIs & ensuring concurrency control using locks
-     - Built a Java Remote library for service communication in Distributed Systems & used it to implement RAFT consensus algorithm\\
+      - Implemented a Distributed Database Platform supporting database partitioning & replication with eventual consistency
+      - Developed a Distributed File System capable of interacting using RESTful APIs & ensuring concurrency control using locks
+      - Built a Java Remote library for service communication in Distributed Systems & used it to implement RAFT consensus algorithm
 
 - **Cyber Threat Intelligence Sharing with MISP** - CMU\\
     September 2021 - November 2021\\
     Languages/Platforms & Skills: Python,Zeek, MISP
-     - Configured Intrusion Detection System on 10 network hosts & integrated it with MISP to automatically log malicious activities
-     - Automated all network hosts to retrieve data from MISP server, after every 120 seconds, and perform log analysis 
-     - Programmed network hosts to Harden themselves against 30+ possible type of attacks using the results of log analysis\\
+      - Configured Intrusion Detection System on 10 network hosts & integrated it with MISP to automatically log malicious activities
+      - Automated all network hosts to retrieve data from MISP server, after every 120 seconds, and perform log analysis 
+      - Programmed network hosts to Harden themselves against 30+ possible type of attacks using the results of log analysis
 
 - **Computer Systems** - CMU\\
     September 2021 - November 2021\\
     Languages/Platforms & Skills: C, Object-Oriented Programming
-     - Developed a HTTP Proxy, in C, capable of handling multiple concurrent connections using multi-threaded LRU cache design
-     - Implemented Malloc package, in C, having an average memory utilization of above 78% and throughput of 11000 Kops/sec
-     - Built a Cache simulator & Shell capable of running multi-threaded processes in C from scratch \\
+      - Developed a HTTP Proxy, in C, capable of handling multiple concurrent connections using multi-threaded LRU cache design
+      - Implemented Malloc package, in C, having an average memory utilization of above 78% and throughput of 11000 Kops/sec
+      - Built a Cache simulator & Shell capable of running multi-threaded processes in C from scratch
 
 - **Issue Logging System Mobile Application** - LUMS\\
     January 2020 - April 2020\\
     Languages/Platforms & Skills: Flutter, SQL, Android Studio
-     - Designed UI/UX of application considering the usability for 3000+ users, including the less educated users, with Adobe XD
-     - Developed front end of the application for iOS/Android using Flutter framework and integrated with SQL database
-     - Deployed the application on Heroku while following an incremental model throughout the development phase\\
+      - Designed UI/UX of application considering the usability for 3000+ users, including the less educated users, with Adobe XD
+      - Developed front end of the application for iOS/Android using Flutter framework and integrated with SQL database
+      - Deployed the application on Heroku while following an incremental model throughout the development phase
 
 - **Paper Unshredder** - LUMS\\
     January 2020 - April 2020\\
     Languages/Platforms & Skills: Python, ResNet, Google Colaboratory
-     - Trained a Neural Network, in Python, to predict the compatibility of two paper shreds with 90% accuracy
-     - Devised an optimization technique to find the possible permutations of the shreds without using the absolute Bruteforce approach\\
+      - Trained a Neural Network, in Python, to predict the compatibility of two paper shreds with 90% accuracy
+      - Devised an optimization technique to find the possible permutations of the shreds without using the absolute Bruteforce approach
 
 
 ---
