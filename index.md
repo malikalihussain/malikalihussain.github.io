@@ -78,7 +78,7 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 **Computer Systems** - CMU\\
   September 2021 - November 2021\\
-  Languages/Platforms & Skills: C, Object-Oriented Programming, Benchmarking
+  Languages/Platforms & Skills: C, Object-Oriented Programming
    
    - Developed a HTTP Proxy, in C, capable of handling multiple concurrent connections using multi-threaded LRU cache design
    - Implemented Malloc package, in C, having an average memory utilization of above 78% and throughput of 11000 Kops/sec
@@ -94,7 +94,7 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 **Paper Unshredder** - LUMS\\
   January 2020 - April 2020\\
-  Languages/Platforms & Skills: Python, ResNet, Google Colaboratory, Machine Learning  
+  Languages/Platforms & Skills: Python, ResNet, Google Colaboratory
   
    - Trained a Neural Network, in Python, to predict the compatibility of two paper shreds with 90% accuracy
    - Devised an optimization technique to find the possible permutations of the shreds without using the absolute Bruteforce approach
@@ -102,18 +102,15 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 ---
 
-## Teaching  
+## Awards & Honors  
 
-- **Boston University** 
-	- CS 350 Fundamentals of Computing Systems - Fall 2017
-
-- **Lahore University of Management Science**
-	- CS 200: Introduction to Programming - Fall 2015
-	- CS 200: Introduction to Programming - Sum 2015
-	- CS 100: Computational Problem Solving (MATLAB) - Fall 2014
-	- CS 100: Computational Problem Solving (MATLAB) - Fall 2012
-	- CS 100: Computational Problem Solving (MATLAB) - Fall 2011
-	- POL 151: Science and Civilization - Sum 2011
+- **Merit Scholarship Award** from **Carnegie Mellon University** 
+- Graduated from **Lahore University of Management Sciences** with Distinction
+- Placed on **Dean’s Honor List** of Academic Year 2020 - 2021
+- Placed on **Dean’s Honor List** of Academic Year 2019 - 2020
+- Placed on **Dean’s Honor List** of Academic Year 2018 - 2019
+- Placed on **Dean’s Honor List** of Academic Year 2017 - 2018
+- **Merit Scholarship Award** from **Lahore University of Management Sciences** 
 	
 ---
 
