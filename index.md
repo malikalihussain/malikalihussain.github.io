@@ -20,19 +20,19 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 ### Education
 
-**[Carnegie Mellon University – Information Networking Institute](https://www.cmu.edu/ini/)**\\
+**Carnegie Mellon University – Information Networking Institute**\\
    Master of Science in Information Technology - Information Security\\
    August 2021 - December 2022\\
    Pittsburgh, PA\\
-   **CGPA: 3.90/4.00**
+   **CGPA: 3.90/4.00**\\
 
-**[Lahore University of Management Sciences](https://lums.edu.pk/)**\\
+**Lahore University of Management Sciences**\\
    Bachelor of Science in Computer Science with Mathematics minor\\
    September 2017 - June 2021\\
    Lahore, Pakistan\\
-   **CGPA: 3.70/4.00**
+   **CGPA: 3.70/4.00**\\
     
-**[Beaconhouse College Programme](https://bcp.net.pk/multan/)**\\
+**Beaconhouse College Programme**\\
    GCE A Levels\\
    September 2015 - June 2017\\
    Multan, Pakistan\\
