@@ -1,7 +1,7 @@
 ---
 layout: home3
-title: Ali Raza
-description: "Ali Raza's website"
+title: Malik Ali Hussain
+description: "Malik Ali Hussain's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
@@ -14,22 +14,29 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 ---
 
-### [CV in PDF (last updated Jan. 2021)](../AliRazaCV.pdf)
+### [CV in PDF (last updated July 2022)](../AliRazaCV.pdf)
 
 ---
 
 ### Education
 
-- **Carnegie Mellon University – Information Networking Institute**, Pittsburgh, PA\\
-    Master of Science in Information Technology - Information Security - **CGPA: 3.90/4.00**, Aug 2021 - Dec 2022 \\
+- **[Carnegie Mellon University – Information Networking Institute](https://www.cmu.edu/ini/)**\\
+    Master of Science in Information Technology - Information Security\\
+    August 2021 - December 2022\\
+    Pittsburgh, PA\\
+    **CGPA: 3.90/4.00**
 
-- **Master of Science**, Computer Science, 2014-2016 \\
- Lahore University of Management Sciences ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  \\
-	- Advisors:  [Prof. Fareed Zaffar](https://lums.edu.pk/lums_employee/422) and [Prof. Ihsan Ayyub Qazi](http://web.lums.edu.pk/~ihsan/)
-	- Thesis: Context Based WiFi Bit-Rate Adaptation 
-
-- **Bachelor of Science**, Electrical Engineering, 2008-2012 \\
-Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan
+- **[Lahore University of Management Sciences](https://lums.edu.pk/)**\\
+    Bachelor of Science in Computer Science with Mathematics minor\\
+    September 2017 - June 2021\\
+    Lahore, Pakistan
+    **CGPA: 3.70/4.00**
+    
+- **[Beaconhouse College Programme](https://bcp.net.pk/multan/)**\\
+    GCE A Levels\\
+    September 2015 - June 2017\\
+    Multan, Pakistan
+    **Grades: 2A* & 2A's**
 
 ---
 ## Work Experience
