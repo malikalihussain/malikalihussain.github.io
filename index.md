@@ -92,7 +92,6 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
     - Trained a Neural Network, in Python, to predict the compatibility of two paper shreds with 90% accuracy
     - Devised an optimization technique to find the possible permutations of the shreds without using the absolute Bruteforce approach
 
-
 ---
 
 ## Awards & Honors  
