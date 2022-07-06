@@ -104,7 +104,25 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 - Placed on **Dean’s Honor List** of Academic Year 2018 - 2019
 - Placed on **Dean’s Honor List** of Academic Year 2017 - 2018
 - **Merit Scholarship Award** from **LUMS** 
-	
+
 ---
 
+## Teaching Experience
+
+- **Carnegie Mellon University**
+     - 14-741: Introdustion to Information Security(Masters Level) - Spring 2022
+
+- **Lahore University of Management Sciences**
+     - CS-100: Introduction to Computational Solving - Spring 2021
+     - CS-340: Databases - Fall 2020
+     - MATH-100: Pre-Calculus - Fall 2020
+     - MATH-231: Statistics - Spring 2020
+     - MATH-100: Pre-Calculus - Fall 2019
+
+---
+
+## Leadership Roles
+
+- **Executive Officer** at LUMS Science Society - SPADES
+- Elected as the **President** of High School Council
 
