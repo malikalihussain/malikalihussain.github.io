@@ -14,7 +14,7 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 
 ---
 
-### [CV in PDF (last updated July 2022)](../AliRazaCV.pdf)
+### [CV in PDF (last updated July 2022)](../MalikAliHussain_Resume.pdf)
 
 ---
 
