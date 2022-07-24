@@ -24,7 +24,7 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
     Master of Science in Information Technology - Information Security\\
     August 2021 - December 2022\\
     Pittsburgh, PA\\
-    **CGPA: 3.90/4.00**
+    **CGPA: 3.95/4.00**
 
 - **Lahore University of Management Sciences**\\
     Bachelor of Science in Computer Science with Mathematics minor\\
