@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am currently pursuing a Master of Science in the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu). I will be graduating in Decemeber 2022. Currently seeking new graduate roles post graduation.
+I am pursuing a Master of Science in the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu). I will be graduating in Decemeber 2022. Currently seeking new graduate roles post graduation.
 <br />
 <br />
 
