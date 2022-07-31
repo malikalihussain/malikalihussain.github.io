@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am currently pursuing a Master of Science in the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu). I will be graduating in Decemeber 2022. 
+I am currently pursuing a Master of Science in the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu). I will be graduating in Decemeber 2022. Currently seeking new graduate roles post graduation.
 <br />
 <br />
 
@@ -109,7 +109,7 @@ I am currently pursuing a Master of Science in the [Information Networking Insti
 ## Teaching Experience
 
 - **Carnegie Mellon University**
-     - 14-741: Introdustion to Information Security(Masters Level) - Spring 2022
+     - 14-741: Introduction to Information Security(Masters Level) - Spring 2022
 
 - **Lahore University of Management Sciences**
      - CS-100: Introduction to Computational Solving - Spring 2021
