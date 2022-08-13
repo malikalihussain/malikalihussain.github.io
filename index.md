@@ -14,7 +14,7 @@ I am pursuing a Master of Science in the [Information Networking Institute](http
 
 ---
 
-### [CV in PDF (last updated July 2022)](../MalikAliHussain_Resume.pdf)
+### [CV in PDF (last updated August 2022)](../MalikAliHussain_Resume.pdf)
 
 ---
 
@@ -44,9 +44,10 @@ I am pursuing a Master of Science in the [Information Networking Institute](http
 - **Google**\\
     Software Engineering Intern at Google Cloud Infrastructure\\
     May 2022 - August 2022   
-    - Built an API for Memory Management & Unsolicited Message Delivery from Pony Express to Host Application
-    - Designed, Implemented & Tested a Reliable Datagram(RD) operation using for Pony Express
-    - Currently benchmarking & developing a Multicast version of RD aimed at reducing tail latency of large fanout messages
+    - Built an API for Memory Management & Unsolicited Message Delivery from [Pony Express](https://research.google/pubs/pub48630/) to Host Application
+    - Designed, implemented & tested a Reliable Datagram(RD) operation for Pony Express followed by its benchmark analysis
+    - Developed a Multicast version of RD op to reduce application interrupts, resulting in ~30% improvement in throughput
+
 
 - **iTitans Ltd.**\\
     Software Engineering Intern\\
