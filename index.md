@@ -88,7 +88,7 @@ I am pursuing a Master of Science in the [Information Networking Institute](http
     - Deployed the application on Heroku while following an incremental model throughout the development phase
 
 - **Paper Unshredder** - LUMS\\
-    January 2020 - April 2020\\
+    September 2020 - December 2020\\
     Languages/Platforms & Skills: Python, ResNet, Google Colaboratory
     - Trained a Neural Network, in Python, to predict the compatibility of two paper shreds with 90% accuracy
     - Devised an optimization technique to find the possible permutations of the shreds without using the absolute Bruteforce approach
