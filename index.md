@@ -46,7 +46,7 @@ I am pursuing a Master of Science in the [Information Networking Institute](http
     May 2022 - August 2022   
     - Built an API for Memory Management & Unsolicited Message Delivery from [Pony Express](https://research.google/pubs/pub48630/) to Host Application
     - Designed, implemented & tested a Reliable Datagram(RD) operation for Pony Express followed by its benchmark analysis
-    - Developed a Multicast version of RD op to reduce application interrupts, resulting in ~30% improvement in throughput
+    - Developed a Multicast version of RD op resulting in ~46% reduction in application interrupts and ~2x increase in throughput
 
 
 - **iTitans Ltd.**\\
